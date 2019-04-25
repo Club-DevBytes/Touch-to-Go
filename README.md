@@ -1,8 +1,9 @@
 # Touch-to-Go
-*Advanced Biometric Enterprise Employee Attendance System with Realtime MySQL Databse and React.js Based Admin Dashboard.*
+*"Advanced Biometric Enterprise Employee Attendance System with Realtime MySQL Databse and React.js Based Admin Dashboard."*
 
 ![enter image description here](https://lh3.googleusercontent.com/H4lpPhO-Tk_rq56K_CeVEeEskAQam8WQZCtuhhMDtu_tZ598GhjxnUT1LR9z4VKS-XMmu1CPsuSMKw)![enter image description here](https://lh3.googleusercontent.com/nhhqOsqknaH2a8Sd1rMouaanuFLUvqu8yGr936gOFcKjY7JgOHd3C6qUX7QivsOqIeIT_L5orDDZ_A)
 
+> A Detailed Installation Blog Post will be Added Soon.
 
 ## Working
 
