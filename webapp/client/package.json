@@ -1,0 +1,35 @@
+{
+  "name": "gih-touch-to-go",
+  "version": "1.0.0",
+  "description": "project by team id - 0000",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@arwes/arwes": "1.0.0-alpha.8",
+    "@arwes/sounds": "1.0.0-alpha.1",
+    "@reach/router": "1.2.1",
+    "bootstrap": "4.1.3",
+    "http-proxy-middleware": "^0.19.1",
+    "node-sass": "^4.11.0",
+    "react": "16.5.2",
+    "react-dates": "^20.1.0",
+    "react-dom": "16.5.2",
+    "react-scripts": "2.0.3",
+    "reactstrap": "6.5.0"
+  },
+  "proxy": "http://localhost:3008/",
+  
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

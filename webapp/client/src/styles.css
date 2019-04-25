@@ -1,0 +1,29 @@
+html,
+body {
+  font-family: sans-serif;
+  background-color: black;
+  color: white;
+  padding: 0;
+}
+button + button,
+a + a {
+  margin-right: 10px;
+}
+.splashPoints {
+  margin: 30px 0;
+}
+
+.DateRangePicker__picker, .SingleDatePicker__picker {
+  pointer-events: all;
+}
+
+.SingleDatePicker_picker {
+  z-index: 22;
+  background-color: #fff;
+  position: absolute;
+}
+
+.DayPicker_weekHeader {
+ 
+  z-index: -8;
+}
