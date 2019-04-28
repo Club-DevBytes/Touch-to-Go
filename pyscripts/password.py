@@ -2,7 +2,7 @@ import easygui
 import os
 
 
-choice = easygui.buttonbox("Hi Admin! whats your wish?",
+choice = easygui.buttonbox("Hi Admin! what is your wish?",
                            choices = ['Employee Enrollment', 'Employee Attendance', 'Employee Deletion'] )
 
 if choice  == 'Employee Enrollment':
